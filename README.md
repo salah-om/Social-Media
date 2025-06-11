@@ -1,4 +1,4 @@
-# Social-Media
+# Social-Media 🌐👥
 
 ## Overview
 This project implements a social network model using an unweighted, undirected graph data structure. Nodes represent people, and edges represent mutual friendships between them. The implementation provides all the core functionality of a basic social network.
